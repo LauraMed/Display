@@ -8,6 +8,7 @@ div{
 	height: 25%;
 	width: 35%;
 	font-size: 140%;
+	margin: 5%;
 
 }
 .pdl5{
@@ -19,4 +20,7 @@ div{
 
 .may{
 	text-transform: uppercase;
+}
+.exc{
+	margin-bottom: 0%;
 }
