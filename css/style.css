@@ -6,9 +6,10 @@
 }
 div{
 	height: 25%;
-	width: 35%;
+	width: 25%;
 	font-size: 140%;
-	margin: 5%;
+	margin: 1%;
+	display: inline-block;
 
 }
 .pdl5{
