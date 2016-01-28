@@ -8,20 +8,23 @@ div{
 	height: 25%;
 	width: 25%;
 	font-size: 140%;
-	margin: 1%;
+	margin: 10% 2%;
 	display: inline-block;
+}
+.pdl{
 
+	padding-left: 1%;
 }
-.pdl5{
-	padding-left: 2%;
+.pdt{
+	padding-top: -10%;
 }
-.pdt5{
-	padding-top: 2%;
+.pdb{
+	padding-bottom: 10%;
 }
-
 .may{
 	text-transform: uppercase;
 }
 .exc{
 	margin-bottom: 0%;
-}
+
+
