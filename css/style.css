@@ -9,22 +9,17 @@ div{
 	width: 25%;
 	font-size: 140%;
 	margin: 10% 2%;
-	display: inline-block;
-}
-.pdl{
-
-	padding-left: 1%;
-}
-.pdt{
-	padding-top: -10%;
-}
-.pdb{
-	padding-bottom: 10%;
+	display: inline;
+	padding: 2%
 }
 .may{
 	text-transform: uppercase;
 }
 .exc{
-	margin-bottom: 0%;
+	margin-bottom: 0%;}
+p{
+	display: inline;
+	text-align: center;
+}
 
 
